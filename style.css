@@ -1,0 +1,27 @@
+body{
+   background: #403737;
+}
+div{
+	margin: 0;
+
+}
+#mypix{
+    float: left;
+    width: 50%;
+
+}
+img{
+	border-radius: 30%;
+}
+#mydetail{
+    float: right;
+    width: 50%;
+    text-align: center;
+    color:#F4EEEE;
+}
+
+.myName{
+	color: #F4EEEE;
+	text-align: center;
+	font-style: italic;
+}
